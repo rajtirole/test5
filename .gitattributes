@@ -1,0 +1,3 @@
+api.key filter=git-crypt diff=git-crypt
+test1.txt filter=git-crypt diff=git-crypt
+tst2.txt filter=git-crypt diff=git-crypt
